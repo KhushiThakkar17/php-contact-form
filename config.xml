@@ -2,7 +2,7 @@
 <form>
   <title>ORA Contact Form</title>
   <fields>
-    <field name="name" label="Full Name" type="text" required="true"/>
+    <field name="name" label="Full EDIT Name" type="text" required="true"/>
     <field name="email" label="Email Address" type="email" required="true"/>
     <field name="department" label="Department" type="text" required="true"/>
     <field name="subject" label="Subject" type="text" required="true"/>
